@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomPay</string>
+    <string name="text_pay">支付</string>
+    <string name="text_result">结果</string>
+</resources>

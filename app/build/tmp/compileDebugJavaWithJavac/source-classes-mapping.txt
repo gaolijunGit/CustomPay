@@ -1,0 +1,2 @@
+com/yk/custompay/BuildConfig.java
+ com.yk.custompay.BuildConfig

@@ -1,0 +1,4 @@
+#Wed Oct 28 10:57:54 CST 2020
+base.0=E\:\\program\\myselfWork\\CustomPay\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
